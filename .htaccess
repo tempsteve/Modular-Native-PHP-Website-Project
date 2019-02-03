@@ -1,0 +1,4 @@
+Options -Indexes
+
+ErrorDocument 404 /composition/error/not_find.php
+ErrorDocument 403 /composition/error/not_allowed.php
