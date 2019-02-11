@@ -1,4 +1,4 @@
-		</div>
-		<?php require_once($root.'_partial/manage/footer.php'); ?>
-	</body>
+        </div>
+        <?php require_once($root.'_partial/manage/footer.php'); ?>
+    </body>
 </html>

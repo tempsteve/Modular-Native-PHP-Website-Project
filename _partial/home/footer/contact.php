@@ -1,26 +1,26 @@
 <h3>連絡方式</h3>
 <aside>
-	<ul class='list-unstyled'>
-		<li>
-			<p>
-				<small>服務專線</small>
-				<br>
-				<span>(02)1234-5678</span>
-			</p>
-		</li>
-		<li>
-			<p>
-				<small>服務信箱</small>
-				<br>
-				<span>週一至週五上午9時至下午5時</span>
-			</p>
-		</li>
-		<li>
-			<p>
-				<small>E-mail</small>
-				<br>
-				<span>yourmail@mail.com</span>
-			</p>
-		</li>
-	</ul>
+    <ul class='list-unstyled'>
+        <li>
+            <p>
+                <small>服務專線</small>
+                <br>
+                <span>(02)1234-5678</span>
+            </p>
+        </li>
+        <li>
+            <p>
+                <small>服務信箱</small>
+                <br>
+                <span>週一至週五上午9時至下午5時</span>
+            </p>
+        </li>
+        <li>
+            <p>
+                <small>E-mail</small>
+                <br>
+                <span>yourmail@mail.com</span>
+            </p>
+        </li>
+    </ul>
 </aside>

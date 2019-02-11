@@ -64,7 +64,7 @@ An other little goodie this library provides is a prefilled layer control, so yo
 
 ```JavaScript
 var baseLayers = ['Stamen.Watercolor', 'OpenStreetMap.Mapnik'],
-	overlays = ['OpenWeatherMap.Clouds'];
+    overlays = ['OpenWeatherMap.Clouds'];
 
 var layerControl = L.control.layers.provided(baseLayers, overlays).addTo(map);
 

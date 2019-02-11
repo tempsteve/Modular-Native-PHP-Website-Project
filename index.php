@@ -7,4 +7,3 @@ $page_title = '最新消息';
 include_once($root.'_include/config.php');
 
 redirect("./news/");
-?>
